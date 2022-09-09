@@ -1,7 +1,8 @@
 # Basic_Spring_Security_Example
 
-Spring Security Example
+
 Sample project how we are implementing the Spring Boot Security in our Project with very Basic Authentication.
+
 Used Core Libraries
 •	spring-boot
 •	spring-security
